@@ -2,3 +2,4 @@ nix-resolusi
 - backend expert
 - python expert
 - pengusaha sukses
+- data science expert
